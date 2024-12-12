@@ -11,7 +11,6 @@ GEM
     eventmachine (1.2.7)
     ffi (1.17.0)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.5)
     google-protobuf (3.25.5-x86_64-linux)
     http_parser.rb (0.8.0)
     i18n (1.14.6)
@@ -32,8 +31,18 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-compose (0.12.0)
+      jekyll (>= 3.7, < 5.0)
+    jekyll-feed (0.17.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
+    jekyll-sitemap (1.4.0)
+      jekyll (>= 3.7, < 5.0)
+    jekyll-timeago (0.15.0)
+      mini_i18n (>= 0.8.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.5.1)
@@ -45,6 +54,11 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    mini_i18n (0.9.0)
+    minima (2.5.2)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.1)
@@ -68,7 +82,12 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.3)
+  jekyll-compose (~> 0.12.0)
+  jekyll-feed (~> 0.12)
+  jekyll-sitemap (~> 1.4)
+  jekyll-timeago (~> 0.15.0)
+  minima (~> 2.5.1)
+  webrick (~> 1.7)
 
 BUNDLED WITH
    2.5.23
