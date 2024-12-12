@@ -4,7 +4,7 @@ author: Madalyn Bartman
 
 # description: I summarize a topic I've learned about every Sunday. Inspired by [this](https://josvisser.substack.com/p/career-advice-learn-how-to-write?r=b67wp&utm_campaign=post&utm_medium=web&triedRedirect=true) blog post by Jos Viser
 
-email: https://www.linkedin.com/in/madalyn-bartman-34654422a/
+linkedin_username: madalyn-bartman-34654422a
 description: >- # this means to ignore newlines until "baseurl:"
   I summarize a topic I've learned about every Sunday. Inspired by Wednesday Wisdom by Jos Viser
 baseurl: "/sunday-summary" # the subpath of your site, e.g. /blog
@@ -13,4 +13,3 @@ github_username:  madalynbartman
 
 plugins:
   - jekyll-feed
-  - jekyll-timeago
