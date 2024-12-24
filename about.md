@@ -11,7 +11,7 @@ Madalyn Bartman ([GitHub](https://github.com/madalynbartman)) ([LinkedIn](https:
 - since 2022: Dev/Ops Engineer
 
 
-**Sunday Summary** I summarize a topic I've learned about every Sunday. Inspired by [this](https://josvisser.substack.com/p/career-advice-learn-how-to-write?r=b67wp&utm_campaign=post&utm_medium=web&triedRedirect=true) Wednesday Wisdom blog post by Jos Viser.
+**Sunday Summary** I summarize a topic I've learned about on a Sunday. Inspired by [this](https://josvisser.substack.com/p/career-advice-learn-how-to-write?r=b67wp&utm_campaign=post&utm_medium=web&triedRedirect=true) Wednesday Wisdom blog post by Jos Viser.
 
 <!-- 
 # My other projects
