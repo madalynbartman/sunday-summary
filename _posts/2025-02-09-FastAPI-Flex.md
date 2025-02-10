@@ -71,6 +71,7 @@ fastapi-flex/
 ├── setup.py
 ├── LICENSE
 └── requirements.txt
+```
 
 ### 4.2 Core Modules
 #### `state_management.py`
@@ -118,8 +119,7 @@ Facilitates seamless integration with WebSockets and third-party libraries.
 ## 7. Documentation
 
 ### 7.1 User Guide
-- Provide detailed usage instructions in the `README.md`.
-- Include examples and best practices for using FastAPI-Flex.
+- The `README.md` will contain usage instructions, examples, and best practices for using FastAPI-Flex.
 
 ### 7.2 API Reference
 - Document each module and its functions/classes.
@@ -127,7 +127,7 @@ Facilitates seamless integration with WebSockets and third-party libraries.
 ## 8. Timeline
 
 ### 8.1 Milestones
-- Week 1: Define project goals and design principles.
-- Week 2-3: Implement core modules and write tests.
-- Week 4: Complete documentation and prepare for release.
-- Week 5: Publish to PyPI and announce the release.
+- Day 1: Define project goals and design principles.
+- Day 2: Implement core modules and write tests.
+- Day 3: Complete documentation and prepare for release.
+- Day 4: Publish to PyPI and announce the release.
