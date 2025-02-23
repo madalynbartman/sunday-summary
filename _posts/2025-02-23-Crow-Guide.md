@@ -1,7 +1,7 @@
 How to Create an API with Crow
 
 ### Intro
-As mentioned in my Spring Boot Guide, I recently became interested in learning API development in C++ and Java. I decided a good place to start would be by translating my first post, a guide on writing an API using FastAPI, into those languages. This blog post contains the C++ version. For this project, I'll be using Crow, a C++ framework similar to Python's Flask and FastAPI. Let’s get into it!
+I recently became interested in learning AI development in C++ and Java. I thought translating my first post, a guide on writing an API using FastAPI, into Java would be a great place to start. The goal is to notice patterns and trends in API development across languages. The ideal outcome would be to be able to think of development in a language agnostic sense. This blog post contains the C++ version. Let's get into it! 
 
 ### Definitions
 API: An interface that allows us to programmatically interact with an application.
