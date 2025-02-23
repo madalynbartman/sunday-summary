@@ -7,7 +7,7 @@ permalink: /about/
 Madalyn Bartman ([GitHub](https://github.com/madalynbartman)) ([LinkedIn](https://www.linkedin.com/in/madalyn-bartman-34654422a/?profileId=ACoAADljfOYBH_k95r01XC2KPp6TDs8KUyvukQE))
 
 
-- since 2024: Data Engineer and Full Stack Developer
+- since 2024: Full Stack Developer
 - since 2022: Dev/Ops Engineer
 
 
