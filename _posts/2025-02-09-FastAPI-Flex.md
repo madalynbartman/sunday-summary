@@ -1,4 +1,6 @@
-# FastAPI-Flex Design Document
+---
+title: "FastAPI-Flex Design Document"
+---
 
 ## 0. Introduction
 I recently became interested in learning how to write Google design docs. I figured I'd give it a shot and write one about a FastAPI library I recently created. Without further ado, let's get into it. 

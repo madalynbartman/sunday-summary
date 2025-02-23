@@ -13,3 +13,5 @@ github_username:  madalynbartman
 
 plugins:
   - jekyll-feed
+
+permalink: /:title/

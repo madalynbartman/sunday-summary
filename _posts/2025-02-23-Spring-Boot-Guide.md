@@ -1,7 +1,11 @@
-# How to Create 
+---
+title: "How to Create an API with Spring Boot"
+---
 
 ### Intro
 I recently became interested in learning AI development in C++ and Java. I thought translating my first post, a guide on writing an API using FastAPI, into Java would be a great place to start. The goal is to notice patterns and trends in API development across languages. The ideal outcome would be to be able to think of development in a language agnostic sense. Let's get into it! 
+
+### Guide
 
 Let's start by covering some important definitions.
 
