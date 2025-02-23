@@ -1,5 +1,3 @@
-How to Create an API with Crow
-
 ### Intro
 I recently became interested in learning AI development in C++ and Java. I thought translating my first post, a guide on writing an API using FastAPI, into Java would be a great place to start. The goal is to notice patterns and trends in API development across languages. The ideal outcome would be to be able to think of development in a language agnostic sense. This blog post contains the C++ version. Let's get into it! 
 
