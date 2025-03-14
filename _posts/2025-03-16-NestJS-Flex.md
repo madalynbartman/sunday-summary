@@ -12,7 +12,7 @@ NestJS-Flex
 NestJS-Flex is a modular library designed to enhance NestJS applications by incorporating efficient state management, performance optimization, WebSocket support, and flexibility. This library provides developers with a robust foundation for building scalable and maintainable systems.
 
 ### 1.3 Author
-Biggie
+Madalyn Bartman
 
 ### 1.4 Date
 3/14/2025
